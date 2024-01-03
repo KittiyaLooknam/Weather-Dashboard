@@ -4,7 +4,7 @@ A waterher dashboard that diaplays the weather outlook for multiple cities using
 # Description
 This appication is a single-page wather dashboard. It was created using HTML, CSS , Javascript ,Bootstrap Css Framework, jQuery and the font-awesome icon pack. The application uses JQuery AJAX calls o the open Weather API to obtain weather and UV informtion. This dasbard allows the user to in put a desired city, and will persent the user with current weather conditions as well as a five days forecast.
 
-#Featuers
+# Featuers
 - Current weather coditions and five day forecast for the user to selecter a city
 - UV index
 - User can searches and saved in the localStorege
