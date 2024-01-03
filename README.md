@@ -20,7 +20,8 @@ Upon accessing the applicatiom for the first time, the user will only be present
 
 Link to delpoyed instance of the application : https://git@github.com:KittiyaLooknam/Weather-Dashboard.git
 
-![Alt text](image.png)
+![image](https://github.com/KittiyaLooknam/Weather-Dashboard/assets/149645563/31448564-29ff-480c-903f-401cf7d7adb5)
+
 
 # Referenced Utilized
 https://openweathermap.org/api
