@@ -1,0 +1,33 @@
+/* ID Selectors */
+
+#max {
+    color: grey;
+  }
+  
+  #message-404 {
+      color: red;
+  }
+  
+  #uv-green {
+    background-color: green;
+    color: white;
+  }
+  
+  #uv-yellow {
+    background-color: yellow;
+  }
+  
+  #uv-orange {
+    background-color: orange;
+  }
+  
+  #uv-red {
+    background-color: red;
+  }
+  
+  #uv-purple {
+    background-color: purple;
+    color: white;
+  }
+
+  
